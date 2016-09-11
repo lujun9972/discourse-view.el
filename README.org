@@ -1,0 +1,13 @@
+* 使用步骤
+1. 安装 =discourse=
+2. 加载 =discourse-view-topic.el=
+3. 加载 =discourse-view-category.el=
+4. 加载 =discourse-view.el=
+5. 运行 =M-x discourse-view=
+* 截图
+[[screenshot.png]]
+* todo
++ 只能查看不能回复和发新帖
++ 每个category只能看第一页的post，不能翻页
++ 显示图片有问题
++ 显示post巨难看
